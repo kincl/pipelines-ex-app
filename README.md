@@ -3,5 +3,5 @@
 ## Run
 
 ```
-podman pull quay.io/jkincl/pipelines-ex-app
+podman pull ghcr.io/kincl/pipelines-ex-app:latest
 ```
